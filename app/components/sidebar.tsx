@@ -264,6 +264,7 @@ export function SideBar(props: { className?: string }) {
             </Link>
           </div>
         </div>
+        
         <div>
           <IconButton
             icon={<AddIcon />}
